@@ -1,20 +1,6 @@
-<%- include('partials/_header.ejs') -%>
+<%- include('partials/_header'); %>
 
-<body class="host_version"> 
-
-	<!-- LOADER -->
-	<div id="preloader">
-		<div class="loader-container">
-			<div class="progress-br float shadow">
-				<div class="progress__item"></div>
-			</div>
-		</div>
-	</div>
-	<!-- END LOADER -->	
-
-    <!-- Start header -->
-	<%- include('partials/_navigation.ejs') -%>
-	<!-- End header -->
+<%- include('partials/_navigation'); %>
 	
 	<div class="all-title-box">
 		<div class="container text-center">
@@ -25,30 +11,41 @@
     <div id="contact" class="section wb">
         <div class="container">
             <div class="section-title text-center">
-                <h3>Need Help? Sure we are Online!</h3>
+                <h3>Get In Touch With Us!</h3>
                 <p class="lead">Let us give you more details about the special offer website you want us. Please fill out the form below. <br>We have million of website owners who happy to work with us!</p>
             </div><!-- end title -->
 
             <div class="row">
-                <div class="col-xl-12 col-md-12 col-sm-12">
+                <div class="offset-1 col-xl-10 col-md-10 col-sm-10">
+
+                    <% if (flashMessages) { %>
+                        <% if (flashMessages.success) { %>
+                            <div class="alert alert-success">
+                                <%= flashMessages.success %>
+                            </div>
+                        <% } else if (flashMessages.error) { %>
+                            <div class="alert alert-danger">
+                                <%= flashMessages.error %>
+                            </div>
+                        <% } %>
+                    <% } %>
+
+
+
                     <div class="contact_form">
                         <div id="message"></div>
-                        <form id="contactform" class="" action="contact.php" name="contactform" method="post">
+                        <form id="contactform" class="" action="/contact" name="contactform" method="POST">
                             <div class="row row-fluid">
                                 <div class="col-lg-6 col-md-6 col-sm-6">
-                                    <input type="text" name="first_name" id="first_name" class="form-control" placeholder="First Name">
+                                    <input type="text" name="name" id="first_name" class="form-control" placeholder="Your Name">
                                 </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6">
-                                    <input type="text" name="last_name" id="last_name" class="form-control" placeholder="Last Name">
-                                </div>
+
                                 <div class="col-lg-6 col-md-6 col-sm-6">
                                     <input type="email" name="email" id="email" class="form-control" placeholder="Your Email">
                                 </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6">
-                                    <input type="text" name="phone" id="phone" class="form-control" placeholder="Your Phone">
-                                </div>
+
                                 <div class="col-lg-12 col-md-12 col-sm-12">
-                                    <textarea class="form-control" name="comments" id="comments" rows="6" placeholder="Give us more details.."></textarea>
+                                    <textarea class="form-control" name="message" id="comments" rows="6" placeholder="Give us more details.."></textarea>
                                 </div>
                                 <div class="text-center pd">
                                     <button type="submit" value="SEND" id="submit" class="btn btn-light btn-radius btn-brd grd1 btn-block">SEND</button>
@@ -61,9 +58,5 @@
         </div><!-- end container -->
     </div><!-- end section -->
 
-    <!-- Start footer -->
-	<%- include('partials/_footer.ejs') -%>
-	<!-- End footer -->
 
-</body>
-</html>
+    <%- include('partials/_footer'); %>
