@@ -1,5 +1,5 @@
-<div align="center" id="top" style="overflow: hidden;">
-  <table>
+<div align="center" id="top">
+  <table style="overflow: hidden;">
     <tr>
       <td><img src="https://iili.io/HJaidFt.png" witdh="250" alt="EduPortal" /></td>
       <td><img src="https://iili.io/HJai3Sn.png" witdh="250" alt="EduPortal" /></td>
