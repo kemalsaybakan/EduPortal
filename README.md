@@ -1,7 +1,14 @@
 <div align="center" id="top">
-  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
-
-  <a href="https://profile-readme-generator.com">Demo</a>
+  <table>
+    <tr>
+      <td><img src="https://iili.io/HJaidFt.png" width="900" alt="EduPortal" /></td>
+      <td><img src="https://iili.io/HJaidFt.png" width="900" alt="EduPortal" /></td>
+    </tr>
+      <td><img src="https://iili.io/HJaidFt.png" width="900" alt="EduPortal" /></td>
+      <td><img src="https://iili.io/HJaidFt.png" width="900" alt="EduPortal" /></td>
+    <tr>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
