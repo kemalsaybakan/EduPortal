@@ -1,4 +1,4 @@
-<div align="center" id="top">
+<div align="center" id="top" style="overflow: hidden;">
   <table>
     <tr>
       <td><img src="https://iili.io/HJaidFt.png" witdh="250" alt="EduPortal" /></td>
