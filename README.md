@@ -2,10 +2,10 @@
   <table>
     <tr>
       <td><img src="https://iili.io/HJaidFt.png" witdh="250" alt="EduPortal" /></td>
-      <td><img src="https://iili.io/HJaidFt.png" witdh="250" alt="EduPortal" /></td>
+      <td><img src="https://iili.io/HJai3Sn.png" witdh="250" alt="EduPortal" /></td>
     </tr>
-      <td><img src="https://iili.io/HJaidFt.png" witdh="250" alt="EduPortal" /></td>
-      <td><img src="https://iili.io/HJaidFt.png" witdh="250" alt="EduPortal" /></td>
+      <td><img src="https://iili.io/HJaP6MB.png" witdh="250" alt="EduPortal" /></td>
+      <td><img src="https://iili.io/HJaPvyb.png" witdh="250" alt="EduPortal" /></td>
     <tr>
     </tr>
   </table>
