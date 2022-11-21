@@ -25,22 +25,16 @@ The program has 3 different roles. (Student/Teacher/Admin)
 
   <table style="overflow: hidden;">
     <tr>
-      <td><b>Student</b>
-          <p>Course Enroll / Release</p></td>
-      <td><img src="https://iili.io/HJai3Sn.png" witdh="250" alt="EduPortal" /></td>
-      <td><img src="https://iili.io/HJai3Sn.png" witdh="250" alt="EduPortal" /></td>
+      <td><b>Student</b></td>
+      <td><b>Teacher</b></td>
+      <td><b>Admin</b></td>
+    </tr>
+    <tr>
+      <td><b><p>Course Enroll / Release</p></b></td>
+      <td><b><p>Course Create / Update</p></b></td>
+      <td><b><p>User Delete - Category Create / Delete</p></b></td>
     </tr>
   </table>
-
-
-
-<b>Teacher</b>
-<p>Course Enroll / Release</p>
-
-<b>Admin</b>
-<p>User Delete</p>
-<p>Category Create / Delete</p>
-
 
 ## :rocket: Main Technologies ##
 
