@@ -24,7 +24,7 @@ The program has 3 different roles. (Student/Teacher/Admin)
 ## :rocket: Main Technologies ##
 
 <a href="https://nodejs.org/">
-  <img width="50" title="NodeJs" alt="NodeJs Logo" src="https://www.iconfinder.com/icons/1012818/code_development_logo_nodejs_icon">
+  <img width="50" title="NodeJs" alt="NodeJs Logo" src="https://cdn-fmggo.nitrocdn.com/UtCbpAsVYUWjzVfYMQKsNFWWCHmLqugI/assets/static/optimized/rev-c3d2eca/wp-content/uploads/nodejs.png">
 </a> &#xa0; &#xa0;
 
 <a href="https://www.typescriptlang.org">
@@ -32,7 +32,7 @@ The program has 3 different roles. (Student/Teacher/Admin)
 </a> &#xa0; &#xa0;
 
 <a href="https://www.mongodb.com/home">
-  <img width="50" title="Styled Components" alt="MongoDb Logo" src="https://www.iconfinder.com/icons/1012822/code_development_logo_mongodb_programming_icon">
+  <img width="50" title="Styled Components" alt="MongoDb Logo" src="https://www.mimastech.com/wp-content/uploads/2017/02/mongodb-logo.png">
 </a> &#xa0; &#xa0;
 
 <a href="http://expressjs.com/">
