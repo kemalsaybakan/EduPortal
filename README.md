@@ -1,11 +1,11 @@
 <div align="center" id="top">
   <table>
     <tr>
-      <td><img src="https://iili.io/HJaidFt.png" witdh="450" alt="EduPortal" /></td>
-      <td><img src="https://iili.io/HJaidFt.png" witdh="450" alt="EduPortal" /></td>
+      <td><img src="https://iili.io/HJaidFt.png" witdh="250" alt="EduPortal" /></td>
+      <td><img src="https://iili.io/HJaidFt.png" witdh="250" alt="EduPortal" /></td>
     </tr>
-      <td><img src="https://iili.io/HJaidFt.png" witdh="450" alt="EduPortal" /></td>
-      <td><img src="https://iili.io/HJaidFt.png" witdh="450" alt="EduPortal" /></td>
+      <td><img src="https://iili.io/HJaidFt.png" witdh="250" alt="EduPortal" /></td>
+      <td><img src="https://iili.io/HJaidFt.png" witdh="250" alt="EduPortal" /></td>
     <tr>
     </tr>
   </table>
