@@ -20,16 +20,16 @@
 
 ## :dart: About ##
 
-**Node Js / Mongo Database** Smart Education Platform 😩 
+**Node Js / Mongo Database** Smart Education Platform  
 The program has 3 different roles. (Student/Teacher/Admin)
 
 <b>Student</b>
 * Course Enroll / Release
 </br>
-<b>Teacher </b>
+<b>Teacher</b>
 * Course Create / Update / Delete 
 </br>
-<b>Admin </b>
+<b>Admin</b>
 * User Delete
 * Category Create / Delete 
 
