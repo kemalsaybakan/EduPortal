@@ -25,9 +25,9 @@ The program has 3 different roles. (Student/Teacher/Admin)
 
   <table style="overflow: hidden;">
     <tr>
-      <td><b>Student</b></td>
-      <td><b>Teacher</b></td>
-      <td><b>Admin</b></td>
+      <td><b>Student Role</b></td>
+      <td><b>Teacher Role</b></td>
+      <td><b>Admin Role</b></td>
     </tr>
     <tr>
       <td><b><p>Course Enroll / Release</p></b></td>
@@ -89,6 +89,5 @@ $ npm start
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-&#xa0;
 
 <a href="#top">Back to top</a>
