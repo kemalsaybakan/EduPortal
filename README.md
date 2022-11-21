@@ -24,14 +24,15 @@
 The program has 3 different roles. (Student/Teacher/Admin)
 
 <b>Student</b>
-* Course Enroll / Release
+<p>Course Enroll / Release</p>
 </br>
 <b>Teacher</b>
-* Course Enroll / Release
+<p>Course Enroll / Release</p>
 </br>
 <b>Admin</b>
-* User Delete
-* Category Create / Delete 
+<p>User Delete</p>
+<p>Category Create / Delete</p>
+</br>
 
 ## :rocket: Main Technologies ##
 
