@@ -27,7 +27,7 @@ The program has 3 different roles. (Student/Teacher/Admin)
 * Course Enroll / Release
 </br>
 <b>Teacher</b>
-* Course Create / Update / Delete 
+* Course Enroll / Release
 </br>
 <b>Admin</b>
 * User Delete
