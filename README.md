@@ -11,11 +11,6 @@
   </table>
 </div>
 
-<div align="center">
-  <h1>EduPortal</h1>
-  <h3>NodeJs Education Portal!</h3>
-</div>
-
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0;
   <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
@@ -28,14 +23,20 @@
 **Node Js / Mongo Database** Smart Education Platform 😩 
 The program has 3 different roles. (Student/Teacher/Admin)
 
+<b>Student</b>
+* Course Enroll / Release
+</br>
+<b>Teacher </b>
+* Course Create / Update / Delete 
+</br>
+<b>Admin </b>
+* User Delete
+* Category Create / Delete 
+
 ## :rocket: Main Technologies ##
 
 <a href="https://nodejs.org/">
   <img width="50" title="NodeJs" alt="NodeJs Logo" src="https://cdn-fmggo.nitrocdn.com/UtCbpAsVYUWjzVfYMQKsNFWWCHmLqugI/assets/static/optimized/rev-c3d2eca/wp-content/uploads/nodejs.png">
-</a> &#xa0; &#xa0;
-
-<a href="https://www.typescriptlang.org">
-  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
 </a> &#xa0; &#xa0;
 
 <a href="https://www.mongodb.com/home">
@@ -45,6 +46,10 @@ The program has 3 different roles. (Student/Teacher/Admin)
 <a href="http://expressjs.com/">
   <img width="50" title="Prettier" alt="ExpressJs Logo" src="https://d2m06gn7cjwia2.cloudfront.net/express.png">
 </a>
+
+<a href="https://www.typescriptlang.org">
+  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
+</a> &#xa0; &#xa0;
 
 ###
 
@@ -59,13 +64,13 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 $ git clone https://github.com/kemalsaybakan/EduPortal
 
 # Access
-$ cd eduportal
+$ cd EduPortal
 
 # Install dependencies
-$ yarn
+$ npm i restore
 
 # Run the project
-$ yarn dev
+$ npm start
 
 # The server will initialize in the <http://localhost:3000>
 ```
@@ -75,8 +80,7 @@ $ yarn dev
 - `dev`: starts the application at `localhost:3000`
 - `build`: creates an optimized production build of application
 - `start`: starts the application in production mode at `localhost:3000` (have run the build before)
-- `test`: run the tests
-- `lint`: run eslint in /src
+- `test`: register as student/teacher
 
 ## :memo: License ##
 
