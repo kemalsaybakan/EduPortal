@@ -23,8 +23,16 @@
 **Node Js / Mongo Database** Smart Education Platform  
 The program has 3 different roles. (Student/Teacher/Admin)
 
-<b>Student</b>
-<p>Course Enroll / Release</p>
+  <table style="overflow: hidden;">
+    <tr>
+      <td><b>Student</b>
+          <p>Course Enroll / Release</p></td>
+      <td><img src="https://iili.io/HJai3Sn.png" witdh="250" alt="EduPortal" /></td>
+      <td><img src="https://iili.io/HJai3Sn.png" witdh="250" alt="EduPortal" /></td>
+    </tr>
+  </table>
+
+
 
 <b>Teacher</b>
 <p>Course Enroll / Release</p>
